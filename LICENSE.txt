@@ -1,0 +1,8 @@
+src/graphics/gl3.h is from Khronos and has its own license header.
+
+All other files created by me are in the public domain.
+Use it, enjoy it. But don't harm anyone.
+
+
+
+
