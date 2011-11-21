@@ -1,3 +1,8 @@
+GET MORE INFORMATION AT:
+
+https://helmutduregger.wordpress.com/2011/11/21/simulation-of-large-and-dense-crowds-on-the-gpu-using-opencl/
+
+
 HOW TO BUILD:
 
 Builds easily with Eclipse CDT and the Qt plugin.
